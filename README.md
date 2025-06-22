@@ -1,4 +1,4 @@
-# A/B Testing in Online/ Digital Marketing
+# A/B Testing in Online Marketing
 Marketing companies often use A/B testing to evaluate the effectiveness of different campaign strategies. This involves showing different versions of a variable (e.g., a web page or banner) to different segments of an audience simultaneously to determine which version has the greatest impact.
 
 In our A/B test, most participants see ads (experimental group), while a smaller segment sees a Public Service Announcement (PSA) or nothing (control group). Our analysis aims to answer two key questions:
